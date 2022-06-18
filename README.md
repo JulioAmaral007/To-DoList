@@ -1,5 +1,5 @@
 <h1 align="center">
-  Buscador de CEP
+  To-DoList
 </h1>
 
 <p align="center">
@@ -19,11 +19,6 @@
   <img alt="" src="Desktop.jpeg" width="100%">
 </p>
 
-<h1>Mobile</h1>
-<p align="center">
-  <img alt="" src="Mobile.jpeg" width="50%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -35,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Construir um Buscador de CEP, via API.
+Construir um To-DoList.
 
 
 ## :memo: Licença
